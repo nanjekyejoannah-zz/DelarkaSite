@@ -1,0 +1,82 @@
+
+#home1 > .col-sm-8 {
+	width: 58%;
+}
+#home1 > .col-md-8 {
+	width: 58%;
+}
+
+#home1 >.col-md-4 {
+	width : 37%;	
+}
+#home1 > .col-md-12 {
+	width: 95%;
+}
+
+#home2 > .col-sm-4{
+	width: 30%;
+}
+
+#homie > .col-sm-12{
+	width: 95%;
+}
+
+#hom > .col-md-12{
+	width: 95%;
+}
+
+
+
+#bod1 > .col-sm-4 {
+	width: 30%;
+}
+#bod1 > .col-sm-8{
+	width : 65%;
+}
+
+#board > .col-sm-12 {
+	width: 95%;
+}
+
+
+
+#reports > .col-md-4{
+	width: 30%;
+}
+
+#reportsDownload > .col-sm-12 {
+	width: 95%;
+}
+
+#report > .col-sm-12{
+	width: 95%;
+}
+
+
+
+#con > .col-sm-3 {
+	width: 20%;
+}
+
+
+#anu > .col-sm-2
+{
+	width: 10%;
+}
+#anu > .col-sm-4{
+	width: 20%;
+
+}
+#anu > .col-sm-6
+{
+	width: 58%;
+	float: left;
+}
+#announcement > .col-md-12{
+	width: 95%;
+}
+
+
+#footer > .col-md-12 {
+	width: 100%;
+}
